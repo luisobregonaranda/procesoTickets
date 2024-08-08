@@ -153,3 +153,5 @@ if __name__== '__main__':
    atenciones=importarAtenciones(rutaAteciones)
    atenciones=transformacionAtenciones(atenciones)
    ConsolidadoTicketsAtenciones(tickets,atenciones,'sesion04')
+
+   
