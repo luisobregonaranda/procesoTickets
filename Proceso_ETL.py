@@ -3,7 +3,7 @@ from polars import Config
 from pathlib import Path
 from MyPackage.misFunciones import texto_a_decimal
 from datetime import date
-
+  
 Config.set_fmt_str_lengths(100)
 
 #LEctura de Tickets Historico
